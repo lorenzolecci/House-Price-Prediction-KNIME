@@ -143,8 +143,6 @@ Under the following terms:
 
 ## 👨‍💻 Authors
 
-**Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca 
+**Lorenzo Lecci** - *Data Science Student* @ University of Milan-Bicocca - [LinkedIn](https://www.linkedin.com/in/lorenzo-lecci-793789297/)
 
 This project was developed in collaboration with my classmates Diana Carbone Radchenko and Martina Tropeano as part of the Machine Learning course.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-lecci-793789297/)
