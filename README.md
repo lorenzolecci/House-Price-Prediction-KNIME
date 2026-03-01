@@ -111,7 +111,7 @@ The core of this project is built visually using KNIME Analytics Platform. To ex
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/lolluz01/House-Price-Prediction-KNIME.git](https://github.com/lolluz01)
+   git clone [https://github.com/lorenzolecci/House-Price-Prediction-KNIME.git](https://github.com/lorenzolecci)
    ```
 2. **Set up the Python Environment (Conda)**
 To ensure all Python dependencies (like Pandas, Scikit-Learn, Contextily, etc.) work perfectly with the KNIME Python Integration, recreate the exact Conda environment using the provided YAML file:
